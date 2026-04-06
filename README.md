@@ -15,6 +15,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiashraf777" alt="aliiashraf777" /></a> </p> -->
 
+<!-- GIF -->
+<img align="right" height="250" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 - 🔭 I’m currently working on **Typescript**
 
 - 🌱 I’m currently learning **NextJs**
@@ -99,3 +102,6 @@
 </picture>
 
 ###
+
+- 📫 How to reach me **[aliiashraf777@gmail.com](mailto:aliiashraf777@gmail.com)**
+- ⚡ Fun fact **I play Cricket Ball**
