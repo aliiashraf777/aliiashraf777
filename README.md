@@ -20,7 +20,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiashraf777" alt="aliiashraf777" /></a> </p> -->
 
 <!-- GIF -->
-<img align="right" height="250" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<!-- <img align="right" height="250" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
+<img align='right' src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="50%" height="285" /><br> 
 
 - 🔭 I’m currently working on **Typescript**
 
@@ -94,6 +95,16 @@
   <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" alt="streak graph"  />
 <!-- </div> -->
 
+
+<!-- home centric -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+- 📫 How to reach me **[aliiashraf777@gmail.com](mailto:aliiashraf777@gmail.com)**
+- ⚡ Fun fact **I play Cricket Ball**
+
+<!-- contribution graph -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliiashraf777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+
 <!-- snake contribution timeline -->
 <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" />
 
@@ -106,10 +117,10 @@
 
 ###
 
+<!-- Thanks for Visiting -->
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-- 📫 How to reach me **[aliiashraf777@gmail.com](mailto:aliiashraf777@gmail.com)**
-- ⚡ Fun fact **I play Cricket Ball**
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<!-- end border -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p> -->
