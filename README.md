@@ -1,3 +1,6 @@
+<!-- git gif -->
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="100" height="100" /></a>
+
 <!-- Profile views badge -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aliiashraf777&label=Profile%20views&color=0e75b6&style=flat" alt="aliiashraf777" /> 
@@ -80,7 +83,6 @@
 </p> -->
 
 
-
 <!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
 </p> -->
@@ -104,5 +106,10 @@
 
 ###
 
+
 - 📫 How to reach me **[aliiashraf777@gmail.com](mailto:aliiashraf777@gmail.com)**
 - ⚡ Fun fact **I play Cricket Ball**
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
