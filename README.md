@@ -4,6 +4,7 @@
 </p>
 
 <h1 align="centerx">Hi 👋, I'm Ali Ashraf</h1>
+<!-- Summary -->
 <h3 align="centerx">A passionate frontend ReactJS developer from Pakistan</h3>
 
 <!-- all socials -->
