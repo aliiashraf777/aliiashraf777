@@ -65,9 +65,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&locale=en" alt="aliiashraf777" />
 </p> -->
 
-<p>
+
+
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
-</p>
+</p> -->
+
+<!-- <div align="center"> -->
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
+<!-- </div> -->
 
 <!-- snake contribution timeline -->
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
