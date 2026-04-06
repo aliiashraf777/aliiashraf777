@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
-<h3 align="center">A passionate frontend ReactJS developer from Pakistan</h3>
+<h1 align="centerx">Hi 👋, I'm Ali Ashraf</h1>
+<h3 align="centerx">A passionate frontend ReactJS developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliiashraf777&label=Profile%20views&color=0e75b6&style=flat" alt="aliiashraf777" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiashraf777" alt="aliiashraf777" /></a> </p> -->
 
-- 🔭 I’m currently working on [Typescript](#)
+- 🔭 I’m currently working on **Typescript**
 
 - 🌱 I’m currently learning **NextJs**
 
@@ -72,14 +72,15 @@
 </p> -->
 
 <!-- <div align="center"> -->
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
 <!-- </div> -->
 
 <!-- snake contribution timeline -->
 <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
-<picture>
+<!-- paceman contribution -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
