@@ -95,7 +95,7 @@
 ## 💼 Platforms I've Used:
 
 <p align="left" style="display: flex; row-gap: 50px; align-items: flex-end ">
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" style="background-color: ##fb8c00; border-radius: 5px; padding: 5px;">
     <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="40" width="40" />
   </a>
   <a href="https://github.com/aliiashraf777">
