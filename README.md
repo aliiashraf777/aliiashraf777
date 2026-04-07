@@ -40,16 +40,24 @@
 
 - 📫 How to reach me **aliiashraf777@gmail.com**
 
-- - 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
+- 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
 
 - ⚡ Fun fact **I play cricket ball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/aliiashraf777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aliiashraf777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliiashraf777" height="30" width="40" /></a>
-<a href="https://fb.com/https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="30" width="40" /></a>
+  <a href="https://github.com/aliiashraf777" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/aliiashraf777" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliiashraf777" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/https://facebook.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="30" width="40" />
+  </a>
 </p>
+
+
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <h3 align="left">Languages and Tools:</h3>
 
@@ -90,31 +98,7 @@
 </p>
 
 
-<!-- ************ README STATS ************* -->
-
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliiashraf777&show_icons=true&locale=en&layout=compact" alt="aliiashraf777" />
-</p> -->
-
-<!-- <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&locale=en" alt="aliiashraf777" />
-</p> -->
-
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
-</p> -->
-
-<div align="left" width="100">
-  <!-- <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
-  -->
-
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
-  <img src="https://github-readme-stats-aliiashraf777.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true" alt="aliiashraf777's Github Top Languages Stats" height="180em" width="49%">
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
-</div>
-
+<!-- ************ PLATFORMS ************ -->
 ## 💼 Platforms I've Used:
 
 <p align="left" style="display: flex; row-gap: 50px; align-items: flex-end ">
@@ -138,6 +122,10 @@
   </a>
 </p>
 
+
+<!-- home centric -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
 > [!IMPORTANT]
 > Here's a very important message I want to share with you all. Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
 
@@ -147,8 +135,31 @@
 > [!NOTE]
 > Kindly note that don't hesitate to connect.
 
-<!-- home centric -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+<!-- ************ README STATS ************* -->
+
+<!-- <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliiashraf777&show_icons=true&locale=en&layout=compact" alt="aliiashraf777" />
+</p> -->
+
+<!-- <p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&locale=en" alt="aliiashraf777" />
+</p> -->
+
+<!-- <p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
+</p> -->
+
+<div align="left" width="100">
+  <!-- <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
+  -->
+
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  /> &nbsp;
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
+  <img src="https://github-readme-stats-aliiashraf777.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true" alt="aliiashraf777's Github Top Languages Stats" height="180em" width="49%">
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
+</div>
+
 
 <!-- contribution graph -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliiashraf777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
