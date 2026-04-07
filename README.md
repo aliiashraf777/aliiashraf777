@@ -119,8 +119,10 @@
 
 <!-- snake contribution timeline -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg" alt="Snake animation" draggable="false" />
-  <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" />
+  <!-- <img src="https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg" alt="Snake animation" draggable="false" />
+  <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" /> -->
+
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 
