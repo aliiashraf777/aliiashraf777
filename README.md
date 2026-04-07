@@ -18,8 +18,7 @@
 </div>
 
 <!-- *********** Dev GIF ************ -->
-<!-- <img align='right' src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="49%" heightx="285" /> -->
-<img align='right' src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/dev-working_rounded.gif?raw=true"  alt="Workspace" width="49%" heightx="285" />
+<img align='right' src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/dev-working_rounded.gif?raw=true"  alt="DevWorkingWorkspace" width="49%" heightx="285" />
 <!--
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -46,19 +45,11 @@
 
 <!-- ************* CONNECT WITH ME ************** -->
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-  <a href="https://github.com/aliiashraf777" target="blank">
-    <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/aliiashraf777" target="blank">
-    <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliiashraf777" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/https://facebook.com" target="blank">
-    <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="30" width="40" />
-  </a>
-</p> -->
 
 <p align="left">
+  <!-- <a href="https://github.com/aliiashraf777" target="blank">
+    <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" />
+  </a> -->
   <a href="https://github.com/aliiashraf777" target="blank">
     <img src="https://skillicons.dev/icons?i=github" alt="connectWithMe" draggable="false" />
   </a>
@@ -99,7 +90,7 @@
 </p>
 <br />
 
-<!-- home centric -->
+<!-- ************* NOTEs & WARNINGS ************* -->
 <img align="right" alt="GIF" src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/homeCentric.gif" />
 
 > [!IMPORTANT]
@@ -114,18 +105,6 @@
 
 
 <!-- ************ README STATS ************* -->
-
-<!-- <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliiashraf777&show_icons=true&locale=en&layout=compact" alt="aliiashraf777" />
-</p> -->
-
-<!-- <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&locale=en" alt="aliiashraf777" />
-</p> -->
-
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
-</p> -->
 
 <div align="left" width="100">
   <!-- <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
@@ -143,12 +122,9 @@
 
 <!-- snake contribution timeline -->
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg" alt="Snake animation" draggable="false" />
-  <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" /> -->
-
+  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
   
-  <!-- <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" width="100%" /> -->
 </p>
 
 <!-- paceman contribution -->
@@ -158,6 +134,6 @@
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <!-- end border -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p> -->
+</p>
