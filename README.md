@@ -12,7 +12,7 @@
 <!-- Summary -->
 <h3 align="centerx">🚀 ReactJS Developer | Frontend Specialist | UI Enthusiast</h3>
 
-<!-- ************ ALL SOCIALS ************* -->
+<!-- ************ Quick Contact ************* -->
 <div align="left">
   <a href="https://linkedin/in/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
@@ -20,7 +20,11 @@
   <a href="https://facebook.com/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
   </a>
+  <a href="https://aliashraf.com/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet&label=&color=fb8c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
+  </a>
 </div>
+
 
 <!-- *********** Dev GIF ************ -->
 <img align='right' src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/dev-working_rounded.gif?raw=true"  alt="DevWorkingWorkspace" width="49%" heightx="285" />
@@ -32,6 +36,22 @@
 </p>
 -->
 
+
+<!-- ## 👨‍💻 About Me -->
+<!-- <h2>👨‍💻 About Me</h2> -->
+<h3 align="left">👨‍💻 About Me</h3>
+
+- 💻 ReactJS Developer with **2+ years of hands-on experience**
+
+- ⚡ Passionate about building **modern, responsive & high-performance web apps**
+
+- 🎯 Focused on **clean code, scalability, and UI/UX perfection**
+
+- 🔥 Currently exploring: **Advanced React Patterns, TypeScript & Performance Optimization**
+
+- 💼 Open to: **Freelance Projects | Remote Jobs | Collaborations**
+
+<!-- 
 - 🔭 I'm currently working on **ReactJS with Typescript**
 
 - 🌱 I'm currently learning **NextJS**
@@ -41,6 +61,7 @@
 - 🤝 I'm looking for help with **learning scalable system design**
 
 - 💬 Ask me about **React, Typescript and web developement**
+-->
 
 - 📫 How to reach me **aliiashraf777@gmail.com**
 
@@ -49,7 +70,7 @@
 - ⚡ Fun fact **I play cricket ball**
 
 <!-- ************* CONNECT WITH ME ************** -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect With Me:</h3>
 
 <p align="left">
   <!-- <a href="https://github.com/aliiashraf777" target="blank">
@@ -67,13 +88,13 @@
   <a href="https://fb.com/https://facebook.com" target="blank">
     <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="48" width="48" />
   </a>
-  <a href="https://fb.com/https://facebook.com" target="blank">
+  <a href="https://fb.com/https://instagram.com" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="connectWithMe" draggable="false" />
   </a>
 </p>
 
 <!-- ************ LANGUAGES & TOOLS ************* -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 
 <p align="left">
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style={backgrounColor: red}> 
