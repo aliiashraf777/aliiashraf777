@@ -23,19 +23,32 @@
 <!-- <img align="right" height="250" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
 <img align='right' src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="50%" height="285" /><br> 
 
-- 🔭 I’m currently working on **Typescript**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliiashraf777&label=Profile views&color=0e75b6&style=flat" alt="aliiashraf777" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiashraf777" alt="aliiashraf777" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [aliiashraf.com](aliiashraf.com)
+- 🔭 I'm currently working on **ReactJS with Typescript**
 
-- 💬 Ask me about **React.JS**
+- 🌱 I'm currently learning **NextJS**
+
+- 👯 I'm looking to collaborate on **open source projects**
+
+- 🤝 I'm looking for help with **learning scalable system design**
+
+- 💬 Ask me about **React, Typescript and web developement**
+
+- 📫 How to reach me **aliiashraf777@gmail.com**
+
+- ⚡ Fun fact **I play cricket ball**
+
+- 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  all socials
+<a href="https://github.com/aliiashraf777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aliiashraf777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliiashraf777" height="30" width="40" /></a>
+<a href="https://fb.com/https://facebook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="30" width="40" /></a>
 </p>
-
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <h3 align="left">Languages and Tools:</h3>
 
