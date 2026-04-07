@@ -17,17 +17,17 @@
   <a href="https://linkedin/in/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin-in&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
   </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
-  </a>
   <a href="https://aliashraf.com/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet&label=&color=fb8c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
   </a>
 </div>
 
 
 <!-- *********** Dev GIF ************ -->
-<img align='right' src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/dev-working_rounded.gif?raw=true"  alt="DevWorkingWorkspace" width="49%" heightx="285" />
+<img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/dev-working_rounded.gif?raw=true"  alt="DevWorkingWorkspace" align='right' width="48%" heightx="285" />
 <!--
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -65,8 +65,8 @@
 - 📫 How to reach me **aliiashraf777@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
+- ⚡ Fun fact I play **Cricket Ball**
 -->
-- ⚡ Fun fact **I play cricket ball**
 
 <!-- ************* CONNECT WITH ME ************** -->
 <h3 align="left">📫 Connect With Me:</h3>
@@ -75,15 +75,12 @@
   <!-- <a href="https://github.com/aliiashraf777" target="blank">
     <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" />
   </a> -->
-  <a href="https://github.com/aliiashraf777" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="connectWithMe" draggable="false" />
-  </a>
   <a href="https://linkedin.com/in/aliiashraf777" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="connectWithMe" draggable="false" />
   </a>
-  <!-- <a href="https://fb.com/https://facebook.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=fortran" alt="connectWithMe" draggable="false" />
-  </a> -->
+  <a href="https://aliashraf.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=htmx" alt="connectWithMe" draggable="false" />
+  </a>
   <a href="https://fb.com/https://facebook.com" target="blank">
     <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="48" width="48" />
   </a>
@@ -93,34 +90,38 @@
 </p>
 
 <!-- ************ LANGUAGES & TOOLS ************* -->
-<h3 align="left">💻 Languages and Tools:</h3>
+<!-- <h3 align="left">💻 Languages and 🛠️ Tools:</h3> -->
 
 <div>
-  ## 🛠️ Tech Stack
+  <h2>🛠️ Tech Stack</h2>
 
-  <div>
-  ### 🚀 Frontend
-  - ReactJS ⚛️
-  - JavaScript (ES6+)
-  - TypeScript
-  - HTML5 & CSS3
-  - Tailwind CSS
-  - Bootstrap
-  - Sass (SCSS)
+  <div align="left">
+    <h3>🚀 Frontend</h3>
+    - ReactJS ⚛️
+    - JavaScript (ES6+)
+    - TypeScript
+    - HTML5 & CSS3
+    - Tailwind CSS
+    - Bootstrap
+    - Sass (SCSS)
   </div>
-  
-  ### ⚙️ Tools & Libraries
-  - Redux Toolkit
-  - React Query
-  - GSAP (Animations)
-  - Framer Motion
-  - Axios / Fetch API
-  
-  ### 🧰 Development Tools
-  - Git & GitHub
-  - VS Code
-  - Chrome DevTools
-  - Figma (UI Collaboration)
+
+  <div align="center">
+    <h3>⚙️ Tools & Libraries</h3>
+    - Redux Toolkit
+    - React Query
+    - GSAP (Animations)
+    - Framer Motion
+    - Axios / Fetch API
+  </div>
+
+  <div align="right">
+    <h3>🧰 Development Tools</h3>
+    - Git & GitHub
+    - VS Code
+    - Chrome DevTools
+    - Figma (UI Collaboration)
+  </div>
 
 </div>
 
@@ -130,6 +131,22 @@
   </a> -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,threejs,sass,css,html,bootstrap,materialui,nextjs,figma" alt="languages-tools" draggable="false" />
 </p>
+
+
+<!-- ************ Featured Skills ************ -->
+<h2>📌 Featured Skills</h2>
+
+- ✨ Pixel-perfect UI Development
+
+- ⚡ Performance Optimization
+  
+- 📱 Fully Responsive Design  
+
+- 🔄 API Integration  
+
+- 🎯 Clean & Maintainable Code  
+
+- 🎨 Modern Animations & UX  
 
 
 <!-- ************ PLATFORMS ************ -->
