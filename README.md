@@ -61,7 +61,7 @@
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style={backgrounColor: red}> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -95,6 +95,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
+</p> -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,threejs,sass,css,html,bootstrap,materialui,nextjs,figma" alt="languages-tools" draggable="false" />
 </p>
 
 
@@ -102,7 +106,7 @@
 <!-- ## 💼 Platforms I've Used: -->
 <h3 align="left">💼 Platforms I've Used:</h3>
 
-<p align="left" style="display: flex; row-gap: 50px; align-items: flex-end ">
+<!-- <p align="left" style="display: flex; row-gap: 50px; align-items: flex-end ">
   <a href="https://code.visualstudio.com/" style="background-color: ##fb8c00; border-radius: 5px; padding: 5px;">
     <img alignx="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="vscode" height="40" width="40" />
   </a>
@@ -122,7 +126,12 @@
     <img alignx="center" src="./assets/platforms-tools/yarn.svg" alt="platform-yarn" title="Yarn" height="40" width="40" />
   </a>
 </p>
-<br >
+<br > -->
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm,yarn" alt="platforms-i-used" draggable="false" />
+</p>
+<br />
 
 <!-- home centric -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
