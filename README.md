@@ -17,11 +17,9 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
 </div>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiashraf777" alt="aliiashraf777" /></a> </p> -->
-
-<!-- GIF -->
-<!-- <img align="right" height="250" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
-<img align='right' src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="50%" height="285" /><br> 
+<!-- *********** Dev GIF ************ -->
+<img align='right' src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="49%" heightx="285" />
+<br> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliiashraf777&label=Profile views&color=0e75b6&style=flat" alt="aliiashraf777" /> </p>
 
@@ -39,9 +37,9 @@
 
 - 📫 How to reach me **aliiashraf777@gmail.com**
 
-- ⚡ Fun fact **I play cricket ball**
+- - 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
 
-- 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
+- ⚡ Fun fact **I play cricket ball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -148,9 +146,6 @@
 
 <!-- home centric -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
-
-- 📫 How to reach me **[aliiashraf777@gmail.com](mailto:aliiashraf777@gmail.com)**
-- ⚡ Fun fact **I play Cricket Ball**
 
 <!-- contribution graph -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliiashraf777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
