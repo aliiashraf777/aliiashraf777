@@ -95,6 +95,18 @@
   <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" alt="streak graph"  />
 <!-- </div> -->
 
+## 💼 Platforms I've Used:
+
+<a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt="Showrin | Platform | Github" title="Github" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" title="Vercel" height="20" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt="Showrin | Platform | Netlify" title="Netlify" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt="Showrin | Platform | NPM" title="NPM" height="45" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt="Showrin | Platform | Yarn" title="Yarn" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt="Showrin | Platform | VS Code" title="VS Code" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="Showrin | Platform | PlayformSH" title="PlayformSH" height="25" /></a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" title="Chromatic" height="25" /></a>&nbsp; &nbsp; &nbsp;
+
+<br>
 
 <!-- home centric -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
@@ -106,7 +118,11 @@
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliiashraf777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 <!-- snake contribution timeline -->
-<img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg" alt="Snake animation" draggable="false" />
+  <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" />
+</p>
+
 
 <!-- paceman contribution -->
 <picture>
