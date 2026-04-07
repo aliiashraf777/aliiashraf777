@@ -111,9 +111,7 @@
   -->
 
   <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  /> &nbsp;
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
   <img src="https://github-readme-stats-aliiashraf777.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true" alt="aliiashraf777's Github Top Languages Stats" height="180em" width="49%">
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
 </div>
 
 
