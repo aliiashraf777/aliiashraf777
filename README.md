@@ -44,8 +44,9 @@
 
 - ⚡ Fun fact **I play cricket ball**
 
+<!-- ************* CONNECT WITH ME ************** -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/aliiashraf777" target="blank">
     <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aliiashraf777" height="30" width="40" />
   </a>
@@ -55,8 +56,25 @@
   <a href="https://fb.com/https://facebook.com" target="blank">
     <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="30" width="40" />
   </a>
-</p>
+</p> -->
 
+<p align="left">
+  <a href="https://github.com/aliiashraf777" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="connectWithMe" draggable="false" />
+  </a>
+  <a href="https://linkedin.com/in/aliiashraf777" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="connectWithMe" draggable="false" />
+  </a>
+  <!-- <a href="https://fb.com/https://facebook.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=fortran" alt="connectWithMe" draggable="false" />
+  </a> -->
+  <a href="https://fb.com/https://facebook.com" target="blank">
+    <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="48" width="48" />
+  </a>
+  <a href="https://fb.com/https://facebook.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="connectWithMe" draggable="false" />
+  </a>
+</p>
 
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <h3 align="left">Languages and Tools:</h3>
