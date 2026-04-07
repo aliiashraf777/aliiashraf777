@@ -15,7 +15,7 @@
 <!-- ************ Quick Contact ************* -->
 <div align="left">
   <a href="https://linkedin/in/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin-in&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
   </a>
   <a href="https://facebook.com/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
@@ -61,12 +61,11 @@
 - 🤝 I'm looking for help with **learning scalable system design**
 
 - 💬 Ask me about **React, Typescript and web developement**
--->
 
 - 📫 How to reach me **aliiashraf777@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
-
+-->
 - ⚡ Fun fact **I play cricket ball**
 
 <!-- ************* CONNECT WITH ME ************** -->
@@ -95,6 +94,35 @@
 
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <h3 align="left">💻 Languages and Tools:</h3>
+
+<div>
+  ## 🛠️ Tech Stack
+
+  <div>
+  ### 🚀 Frontend
+  - ReactJS ⚛️
+  - JavaScript (ES6+)
+  - TypeScript
+  - HTML5 & CSS3
+  - Tailwind CSS
+  - Bootstrap
+  - Sass (SCSS)
+  </div>
+  
+  ### ⚙️ Tools & Libraries
+  - Redux Toolkit
+  - React Query
+  - GSAP (Animations)
+  - Framer Motion
+  - Axios / Fetch API
+  
+  ### 🧰 Development Tools
+  - Git & GitHub
+  - VS Code
+  - Chrome DevTools
+  - Figma (UI Collaboration)
+
+</div>
 
 <p align="left">
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style={backgrounColor: red}> 
