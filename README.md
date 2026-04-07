@@ -127,6 +127,12 @@
 > [!IMPORTANT]
 > Here's a very important message I want to share with you all. Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
 
+> [!WARNING]
+> With that here's a very quick warning.
+
+> [!NOTE]
+> Kindly note that don't hesitate to connect.
+
 <!-- home centric -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
