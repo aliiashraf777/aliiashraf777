@@ -10,7 +10,7 @@
 <!-- Summary -->
 <h3 align="centerx">A passionate frontend ReactJS developer from Pakistan</h3>
 
-<!-- all socials -->
+<!-- ************ ALL SOCIALS ************* -->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -36,6 +36,7 @@
   all socials
 </p>
 
+<!-- ************ LANGUAGES & TOOLS ************* -->
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -74,6 +75,9 @@
   </a>
 </p>
 
+
+<!-- ************ README STATS ************* -->
+
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliiashraf777&show_icons=true&locale=en&layout=compact" alt="aliiashraf777" />
 </p> -->
@@ -81,7 +85,6 @@
 <!-- <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&locale=en" alt="aliiashraf777" />
 </p> -->
-
 
 <!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
