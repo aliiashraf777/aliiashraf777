@@ -124,6 +124,9 @@
   </a>
 </p>
 
+> [!IMPORTANT]
+> Here's a very important message I want to share with you all. Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+
 <!-- home centric -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
