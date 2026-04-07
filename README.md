@@ -65,13 +65,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>  
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style={color: 'white'} alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
@@ -97,7 +94,10 @@
 
 ## 💼 Platforms I've Used:
 
-<p align="left">
+<p align="left" style="display: flex; row-gap: 50px; align-items: flex-end ">
+  <a href="https://code.visualstudio.com/">
+    <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="40" width="40" />
+  </a>
   <a href="https://github.com/aliiashraf777">
     <img align="center" src="./assets/platforms-tools/github.svg" alt="platform-github" title="Github" height="40" width="40" />
   </a>
@@ -113,8 +113,6 @@
   <a href="https://classic.yarnpkg.com/en/">
     <img align="center" src="./assets/platforms-tools/yarn.svg" alt="platform-yarn" title="Yarn" height="40" width="40" />
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="40" width="40" />
 </p>
 
 <!-- home centric -->
@@ -132,6 +130,8 @@
   <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" /> -->
 
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  
+  <!-- <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/snake.svg" alt="Snake animation" draggable="false" width="100%" /> -->
 </p>
 
 <!-- paceman contribution -->
