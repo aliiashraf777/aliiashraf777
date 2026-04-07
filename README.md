@@ -97,24 +97,25 @@
 
 ## 💼 Platforms I've Used:
 
-<a href="https://github.com/aliiashraf777">
-  <img align="center" src="./assets/platforms-tools/github.svg" alt="platform-github" title="Github" height="25" width="25" />
-</a>&nbsp; &nbsp; &nbsp;
-<a href="https://vercel.com/">
-  <img align="center" src="./assets/platforms-tools/vercel.png" alt="platform-vercel" title="Vercel" height="20" />
-</a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.netlify.com/">
-  <img align="center" src="./assets/platforms-tools/netlify.svg" alt="platform-netlify" title="Netlify" height="25" width="25" />
-</a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.npmjs.com/">
-  <img align="center" src="./assets/platforms-tools/npm.svg" alt="platform-npm" title="NPM" height="45" />
-</a>&nbsp; &nbsp; &nbsp;
-<a href="https://classic.yarnpkg.com/en/">
-  <img align="center" src="./assets/platforms-tools/yarn.svg" alt="platform-yarn" title="Yarn" height="25" width="25" />
-</a>&nbsp; &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/">
-  <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="25" width="25" />
-<br>
+<p align="left">
+  <a href="https://github.com/aliiashraf777">
+    <img align="center" src="./assets/platforms-tools/github.svg" alt="platform-github" title="Github" height="40" width="40" />
+  </a>
+  <a href="https://vercel.com/">
+    <img align="center" src="./assets/platforms-tools/vercel.png" alt="platform-vercel" title="Vercel" height="40" width="40" />
+  </a>
+  <a href="https://www.netlify.com/">
+    <img align="center" src="./assets/platforms-tools/netlify.svg" alt="platform-netlify" title="Netlify" height="40" width="40" />
+  </a>
+  <a href="https://www.npmjs.com/">
+    <img align="center" src="./assets/platforms-tools/npm.svg" alt="platform-npm" title="NPM" height="40" width="40" />
+  </a>
+  <a href="https://classic.yarnpkg.com/en/">
+    <img align="center" src="./assets/platforms-tools/yarn.svg" alt="platform-yarn" title="Yarn" height="40" width="40" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="40" width="40" />
+</p>
 
 <!-- home centric -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
