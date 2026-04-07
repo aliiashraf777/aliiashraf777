@@ -1,20 +1,25 @@
-<!-- git gif -->
+<!-- GitHub Roar -->
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="100" height="100" /></a>
 
 <!-- Profile views badge -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aliiashraf777&label=Profile%20views&color=0e75b6&style=flat" alt="aliiashraf777" /> 
+<p align="left">
+  <a href="https://github.com/aliiashraf777">
+    <img src="https://komarev.com/ghpvc/?username=aliiashraf777&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  </a>
 </p>
 
 <h1 align="centerx">Hi 👋, I'm Ali Ashraf</h1>
 <!-- Summary -->
-<h3 align="centerx">A passionate frontend ReactJS developer from Pakistan</h3>
+<h3 align="centerx">🚀 ReactJS Developer | Frontend Specialist | UI Enthusiast</h3>
 
 <!-- ************ ALL SOCIALS ************* -->
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://linkedin/in/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
+  </a>
+  <a href="https://facebook.com/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
+  </a>
 </div>
 
 <!-- *********** Dev GIF ************ -->
