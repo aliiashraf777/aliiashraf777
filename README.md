@@ -33,9 +33,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  all socials
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style={backgrounColor: red}> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -85,18 +87,21 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiashraf777&" alt="aliiashraf777" />
 </p> -->
 
-<!-- <div align="center"> -->
+<div align="left" width="100">
   <!-- <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
   -->
 
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" alt="streak graph"  />
-<!-- </div> -->
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
+  &nbsp;
+  <img src="https://github-readme-stats-aliiashraf777.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true" alt="aliiashraf777's Github Top Languages Stats" height="180em" width="49%">
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  />
+</div>
 
 ## 💼 Platforms I've Used:
 
 <p align="left" style="display: flex; row-gap: 50px; align-items: flex-end ">
   <a href="https://code.visualstudio.com/" style="background-color: ##fb8c00; border-radius: 5px; padding: 5px;">
-    <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="40" width="40" />
+    <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="vscode" height="40" width="40" />
   </a>
   <a href="https://github.com/aliiashraf777">
     <img align="center" src="./assets/platforms-tools/github.svg" alt="platform-github" title="Github" height="40" width="40" />
