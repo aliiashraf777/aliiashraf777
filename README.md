@@ -97,15 +97,23 @@
 
 ## 💼 Platforms I've Used:
 
-<a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt="Showrin | Platform | Github" title="Github" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" title="Vercel" height="20" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt="Showrin | Platform | Netlify" title="Netlify" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt="Showrin | Platform | NPM" title="NPM" height="45" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt="Showrin | Platform | Yarn" title="Yarn" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt="Showrin | Platform | VS Code" title="VS Code" height="25" width="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="Showrin | Platform | PlayformSH" title="PlayformSH" height="25" /></a>&nbsp; &nbsp; &nbsp;
-<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" title="Chromatic" height="25" /></a>&nbsp; &nbsp; &nbsp;
-
+<a href="https://github.com/aliiashraf777">
+  <img align="center" src="./assets/platforms-tools/github.svg" alt="platform-github" title="Github" height="25" width="25" />
+</a>&nbsp; &nbsp; &nbsp;
+<a href="https://vercel.com/">
+  <img align="center" src="./assets/platforms-tools/vercel.png" alt="platform-vercel" title="Vercel" height="20" />
+</a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.netlify.com/">
+  <img align="center" src="./assets/platforms-tools/netlify.svg" alt="platform-netlify" title="Netlify" height="25" width="25" />
+</a>&nbsp; &nbsp; &nbsp;
+<a href="https://www.npmjs.com/">
+  <img align="center" src="./assets/platforms-tools/npm.svg" alt="platform-npm" title="NPM" height="45" />
+</a>&nbsp; &nbsp; &nbsp;
+<a href="https://classic.yarnpkg.com/en/">
+  <img align="center" src="./assets/platforms-tools/yarn.svg" alt="platform-yarn" title="Yarn" height="25" width="25" />
+</a>&nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/">
+  <img align="center" src="./assets/platforms-tools/visual-studio-code.svg" alt="platform-vscode" title="VS Code" height="25" width="25" />
 <br>
 
 <!-- home centric -->
@@ -125,11 +133,8 @@
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 </p>
 
-
 <!-- paceman contribution -->
-<img src="https://pacman.abozanona.me?username=aliiashraf777" />
-
-###
+<!-- <img src="https://pacman.abozanona.me?username=aliiashraf777" /> -->
 
 <!-- Thanks for Visiting -->
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
