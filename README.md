@@ -146,7 +146,17 @@
 
 - 🎯 Clean & Maintainable Code  
 
-- 🎨 Modern Animations & UX  
+- 🎨 Modern Animations & UX
+
+<!-- ************ What I Can Build ************* -->
+## 🚀 What I Can Build
+
+✔️ Modern React Web Apps  
+✔️ Business Websites  
+✔️ Landing Pages (High Conversion)  
+✔️ Dashboards & Admin Panels  
+✔️ E-commerce Frontends  
+✔️ Smooth Animations & Interactive UI  
 
 
 <!-- ************ PLATFORMS ************ -->
@@ -173,6 +183,17 @@
 > [!NOTE]
 > Kindly note that don't hesitate to connect.
 <br />
+
+
+<!-- ********* Let's Connect ******************* -->
+
+## 🌐 Let's Connect
+
+- 💼 Open for freelance & job opportunities
+- 📩 Reach me via GitHub or collaborate on projects
+
+⭐ **If you like my work, don't forget to star my repositories!**
+
 
 
 <!-- ************ README STATS ************* -->
