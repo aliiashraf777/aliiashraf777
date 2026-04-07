@@ -133,7 +133,19 @@
 <!-- Thanks for Visiting -->
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
+<!-- <div align="left">
+  <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/SeeYouAgain.webp" alt="seeYou" width="100%" height="350" />
+</div> -->
+
+<div align="left">
+  <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/seeYouAgain1.gif" alt="seeYou" width="48%" heightx="350" align="left" />
+  &nbsp;
+  <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/seeYouAgain2.gif" alt="seeYou" width="48%" heightx="350" align="right" />
+</div>
+
+
+
 <!-- end border -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+<!-- <p align="left">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="border" width="100%" heightx="110px" />
+</p> -->
