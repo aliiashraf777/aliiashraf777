@@ -207,19 +207,28 @@
 </p>
 <br />
 
-<!-- ************* NOTEs & WARNINGS ************* -->
-<img align="right" alt="GIF" src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/homeCentric.gif" />
 
-> [!IMPORTANT]
-> Here's a very important message I want to share with you all. Do not hesitate to upvote the issues and pull requests you are interested in. We will work on the most upvoted first.
+<!-- ************* BEYOND CODE SECTION ************* -->
+## 🧠 Beyond Code
 
-> [!WARNING]
-> With that here's a very quick warning.
+<img align="right" alt="coding-gif" widthx="300" src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/homeCentric.gif" />
 
-> [!NOTE]
-> Kindly note that don't hesitate to connect.
+> ⚠️ I just realized I haven't left the house in six days.
+
+- 💻 Building real-world React applications daily
+  
+- ⚡ Obsessed with performance & smooth UX
+  
+- 🎯 Focused on writing scalable, clean code
+  
+- 🚀 Always learning, always improving
+  
+> ☕ Fueled by coffee. Driven by curiosity.
 <br />
-
+> [!NOTE]
+<!-- > Projects of all these related tech stack is given down below with their necessary links, you just need to scroll a bit more. -->
+> You don't need to feel sad about it, I usually play cricket ball to keep myself enthusiastic and maintain work-life balance.
+<br />
 
 <!-- ************ PROJECTS SHOWCASE ************* -->
 <h2>🛠️ Featured Projects - Showcase</h2>
