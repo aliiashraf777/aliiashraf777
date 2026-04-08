@@ -80,7 +80,7 @@
 <!-- ## My Skill Set -->
 <h2>🛠️ Tech Stack</h2>
 <table min-width="100vw" style="border: 1px solid red">
-  <tr>
+  <tr min-width="100vw" width="100vw">
   <td valign="top" min-width="33%" width="33%">
     <h3>🚀 Frontend</h3>
     <div align="left">
@@ -146,71 +146,51 @@
 </p>
 
 
+<!-- ************ Featured Skills & Interests ************ -->
 <h2>🛠️ Skills & Interest</h2>
 <table min-width="100vw" style="border: 1px solid red">
   <tr>
   <td valign="top" min-width="49.5%" width="49.5%">
       <h3>📌 Featured Skills</h3>
       <div align="left">  
-  - ✨ Pixel-perfect UI Development
         
+  - ✨ Pixel-perfect UI Development
+    
   - ⚡ Performance Optimization
       
-  - 📱 Fully Responsive Design  
-  
-  - 🔄 API Integration  
-  
-  - 🎯 Clean & Maintainable Code  
-  
+  - 📱 Fully Responsive Design
+    
+  - 🔄 API Integration
+    
+  - 🎯 Clean & Maintainable Code
+    
   - 🎨 Modern Animations & UX
+    
       </div>
   </td>  
 
   <td valign="top" min-width="49.5%" width="49.5%">
     <h3>🚀 What I Can Build</h3>
     <div align="left">  
-      ✔️ Modern React Web Apps  
-      ✔️ Business Websites  
-      ✔️ Landing Pages (High Conversion)  
-      ✔️ Dashboards & Admin Panels  
-      ✔️ E-commerce Frontends  
-      ✔️ Smooth Animations & Interactive UI
+      
+  - ✔️ Modern React Web Apps
+    
+  - ✔️ Business Websites
+    
+  - ✔️ Landing Pages (High Conversion)\
+    
+  - ✔️ Dashboards & Admin Panels
+    
+  - ✔️ E-commerce Frontends
+    
+  - ✔️ Smooth Animations & Interactive UI
+    
     </div>
   </td>
 </tr>
 </table>  
 
-<br/>  
-
-
-<!-- ************ Featured Skills ************ -->
-<h2>📌 Featured Skills</h2>
-
-- ✨ Pixel-perfect UI Development
-
-- ⚡ Performance Optimization
-  
-- 📱 Fully Responsive Design  
-
-- 🔄 API Integration  
-
-- 🎯 Clean & Maintainable Code  
-
-- 🎨 Modern Animations & UX
-
-<!-- ************ What I Can Build ************* -->
-## 🚀 What I Can Build
-
-✔️ Modern React Web Apps  
-✔️ Business Websites  
-✔️ Landing Pages (High Conversion)  
-✔️ Dashboards & Admin Panels  
-✔️ E-commerce Frontends  
-✔️ Smooth Animations & Interactive UI  
-
-
 <!-- ************ PLATFORMS ************ -->
-<!-- ## 💼 Platforms I've Used: -->
 <h3 align="left">💼 Platforms I've Used:</h3>
 
 <p align="left">
