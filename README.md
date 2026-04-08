@@ -10,7 +10,8 @@
 
 <h1 align="centerx">Hi 👋, I'm Ali Ashraf</h1>
 <!-- Summary -->
-<h3 align="centerx">🚀 ReactJS Developer | Frontend Specialist | UI Enthusiast</h3>
+<!-- <h3 align="centerx">🚀 ReactJS Developer | Frontend Specialist | UI Enthusiast</h3> -->
+<h3 align="left">🚀 React Developer | Building High-Performance & Scalable Web Apps</h3>
 
 <!-- ************ Quick Contact ************* -->
 <div align="left">
@@ -271,9 +272,12 @@
 <!-- ********* Let's Connect ******************* -->
 
 ## 🌐 Let's Connect
-
+<!-- 
 - 💼 Open for freelance & job opportunities
-- 📩 Reach me via GitHub or collaborate on projects
+- 📩 Reach me via GitHub or collaborate on projects -->
+- 💼 Available for Freelance & Remote Jobs
+  
+- 💬 Let’s build something amazing together → DM me on LinkedIn
 
 ⭐ **If you like my work, don't forget to star my repositories!**
 
