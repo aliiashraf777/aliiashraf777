@@ -86,8 +86,8 @@
 <table width="100%" style="border: 1px solid red">
   <tr>
   <td valign="top" width="33%">
-    <h3>🚀 Frontend</h3>
-    <div align="left">
+    
+### 🚀 Frontend
  
  - ReactJS ⚛️
    
@@ -102,12 +102,12 @@
  - Bootstrap
    
  - Sass (SCSS)
-    </div>
+    <!-- </div> -->
   </td>  
 
-<td valign="top" width="33%">
-  <h3>⚙️ Tools & Libraries</h3>
-  <div align="left">  
+<td valign="top" width="33%" style="text-wrap: no-wrap!">
+  
+### ⚙️ Tools & Libraries
 
   - Redux Toolkit
     
@@ -121,14 +121,15 @@
     
   - Axios / Fetch API
     
-  </div>
 </td>
 
-  <td valign="top" width="33%">
-    <h3>🧰 Development Tools</h3>
-    <div align="left">  
+  <td valign="top" width="33%" style="text-wrap: no-wrap!">
+    
+### 🧰 Development Tools
       
-  - Git & GitHub
+  - Git
+    
+  - GitHub
     
   - VS Code
     
@@ -136,7 +137,6 @@
     
   - Figma (UI Collaboration)
     
-    </div>
   </td>
 </tr>
 </table>  
