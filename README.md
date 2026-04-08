@@ -219,7 +219,7 @@
 
 
 <!-- ************ PROJECTS SHOWCASE ************* -->
-<h2>🛠️ Projects Showcase</h2>
+<h2>🛠️ Featured Projects - Showcase</h2>
 <table min-width="100vw" style="border: 1px solid red">
   <tr min-width="100vw" width="100vw">
   <td valign="top" align="center" min-width="33%" width="33%">
