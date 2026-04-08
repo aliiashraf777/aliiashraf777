@@ -113,6 +113,8 @@
     
   - Framer Motion
     
+  - Material UI
+    
   - Axios / Fetch API
     
   </div>
@@ -214,6 +216,57 @@
 > Kindly note that don't hesitate to connect.
 <br />
 
+
+<!-- ************ PROJECTS SHOWCASE ************* -->
+<h2>🛠️ Projects Showcase</h2>
+<table min-width="100vw" style="border: 1px solid red">
+  <tr min-width="100vw" width="100vw">
+  <td valign="top" align="center" min-width="33%" width="33%">
+    <a href="#" >
+      <img src="./assets/" alt="project1" width="100%" />
+    </a>
+    <br />
+    <b>Project One</b>
+    <br />
+    <sub>What it is in one line. Impact or metric if possible</sub>
+    <br />
+    <a href="https://github.com/aliiashraf777/project-url">Repo</a> . 
+    <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
+    <br />
+    <sub>Tas: Tag1, Tag2, Tag3</sub>
+  </td>
+  <td valign="top" align="center" min-width="33%" width="33%">
+    <a href="#" >
+      <img src="./assets/" alt="project1" width="100%" />
+    </a>
+    <br />
+    <b>Project One</b>
+    <br />
+    <sub>What it is in one line. Impact or metric if possible</sub>
+    <br />
+    <a href="https://github.com/aliiashraf777/project-url">Repo</a> . 
+    <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
+    <br />
+    <sub>Tas: Tag1, Tag2, Tag3</sub>
+  </td>
+  <td valign="top" align="center" min-width="33%" width="33%">
+    <a href="#" >
+      <img src="./assets/" alt="project1" width="100%" />
+    </a>
+    <br />
+    <b>Project One</b>
+    <br />
+    <sub>What it is in one line. Impact or metric if possible</sub>
+    <br />
+    <a href="https://github.com/aliiashraf777/project-url">Repo</a> . 
+    <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
+    <br />
+    <sub>Tas: Tag1, Tag2, Tag3</sub>
+  </td>
+</tr>
+</table>  
+
+<br/>  
 
 <!-- ********* Let's Connect ******************* -->
 
