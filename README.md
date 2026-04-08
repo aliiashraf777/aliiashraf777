@@ -14,11 +14,14 @@
 
 <!-- ************ Quick Contact ************* -->
 <div align="left">
+  <a href="mailto:aliiashraf777@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
+  </a>
   <a href="https://linkedin/in/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin-in&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
   </a>
   <a href="https://aliashraf.com/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet&label=&color=fb8c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=code&label=&color=fb8c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
   </a>
   <a href="https://facebook.com/">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
@@ -37,7 +40,6 @@
 -->
 
 
-<!-- ## 👨‍💻 About Me -->
 <!-- <h2>👨‍💻 About Me</h2> -->
 <h3 align="left">👨‍💻 About Me</h3>
 
@@ -51,22 +53,6 @@
 
 - 💼 Open to: **Freelance Projects | Remote Jobs | Collaborations**
 
-<!-- 
-- 🔭 I'm currently working on **ReactJS with Typescript**
-
-- 🌱 I'm currently learning **NextJS**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 🤝 I'm looking for help with **learning scalable system design**
-
-- 💬 Ask me about **React, Typescript and web developement**
-
-- 📫 How to reach me **aliiashraf777@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://aliashraf.com](https://aliashraf.com)**
-- ⚡ Fun fact I play **Cricket Ball**
--->
 
 <!-- ************* CONNECT WITH ME ************** -->
 <h3 align="left">📫 Connect With Me:</h3>
@@ -89,8 +75,8 @@
   </a>
 </p>
 
-<!-- ************ LANGUAGES & TOOLS ************* -->
 
+<!-- ************ LANGUAGES & TOOLS ************* -->
 <!-- ## My Skill Set -->
 <h2>🛠️ Tech Stack</h2>
 <table min-width="100vw" style="border: 1px solid red">
@@ -140,6 +126,43 @@
   </a> -->
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,threejs,sass,css,html,bootstrap,materialui,nextjs,figma" alt="languages-tools" draggable="false" />
 </p>
+
+
+<h2>🛠️ Skills & Interest</h2>
+<table min-width="100vw" style="border: 1px solid red">
+  <tr>
+  <td valign="top" min-width="49.5%" width="49.5%">
+      <h3>📌 Featured Skills</h3>
+      <div align="left">  
+  - ✨ Pixel-perfect UI Development
+        
+  - ⚡ Performance Optimization
+      
+  - 📱 Fully Responsive Design  
+  
+  - 🔄 API Integration  
+  
+  - 🎯 Clean & Maintainable Code  
+  
+  - 🎨 Modern Animations & UX
+      </div>
+  </td>  
+
+  <td valign="top" min-width="49.5%" width="49.5%">
+    <h3>🚀 What I Can Build</h3>
+    <div align="left">  
+      ✔️ Modern React Web Apps  
+      ✔️ Business Websites  
+      ✔️ Landing Pages (High Conversion)  
+      ✔️ Dashboards & Admin Panels  
+      ✔️ E-commerce Frontends  
+      ✔️ Smooth Animations & Interactive UI
+    </div>
+  </td>
+</tr>
+</table>  
+
+<br/>  
 
 
 <!-- ************ Featured Skills ************ -->
