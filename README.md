@@ -207,29 +207,6 @@
 </p>
 <br />
 
-
-<!-- ************* BEYOND CODE SECTION ************* -->
-## 🧠 Beyond Code
-
-<img align="right" alt="coding-gif" widthx="300" src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/homeCentric.gif" />
-
-> ⚠️ I just realized I haven't left the house in six days.
-
-- 💻 Building real-world React applications daily
-  
-- ⚡ Obsessed with performance & smooth UX
-  
-- 🎯 Focused on writing scalable, clean code
-  
-- 🚀 Always learning, always improving
-  
-> ☕ Fueled by coffee. Driven by curiosity.
-<br />
-> [!NOTE]
-<!-- > Projects of all these related tech stack is given down below with their necessary links, you just need to scroll a bit more. -->
-> You don't need to feel sad about it, I usually play cricket ball to keep myself enthusiastic and maintain work-life balance.
-<br />
-
 <!-- ************ PROJECTS SHOWCASE ************* -->
 <h2>🛠️ Featured Projects - Showcase</h2>
 <table min-width="100vw" style="border: 1px solid red">
@@ -280,6 +257,30 @@
 </table>  
 
 <br/>  
+
+
+<!-- ************* BEYOND CODE SECTION ************* -->
+## 🧠 Beyond Code
+
+<img align="right" alt="coding-gif" widthx="300" src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/images/homeCentric.gif" />
+
+> ⚠️ I just realized I haven't left the house in six days.
+
+- 💻 Building real-world React applications daily
+  
+- ⚡ Obsessed with performance & smooth UX
+  
+- 🎯 Focused on writing scalable, clean code
+  
+- 🚀 Always learning, always improving
+  
+> ☕ Fueled by coffee. Driven by curiosity.
+<br />
+
+> [!NOTE]
+> You don't need to feel sad about it, I usually play cricket ball to keep myself enthusiastic and maintain work-life balance.
+<!-- > Projects of all these related tech stack is given down below with their necessary links, you just need to scroll a bit more. -->
+<br />
 
 <!-- ********* Let's Connect ******************* -->
 
