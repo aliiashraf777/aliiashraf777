@@ -205,10 +205,10 @@
   </a> -->
   <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm,yarn" alt="platforms-i-used" draggable="false" />
 </p>
-<br />
+<!-- <br /> -->
 
 <!-- ************ PROJECTS SHOWCASE ************* -->
-<h2>💻 Featured Projects - Showcase</h2>
+<!-- <h2>💻 Featured Projects - Showcase</h2>
 <table min-width="100vw" style="border: 1px solid red">
   <tr min-width="100vw" width="100vw">
   <td valign="top" align="center" min-width="33%" width="33%">
@@ -225,38 +225,10 @@
     <br />
     <sub>Tas: Tag1, Tag2, Tag3</sub>
   </td>
-  <td valign="top" align="center" min-width="33%" width="33%">
-    <a href="#" >
-      <img src="./assets/" alt="project1" width="100%" />
-    </a>
-    <br />
-    <b>Project One</b>
-    <br />
-    <sub>What it is in one line. Impact or metric if possible</sub>
-    <br />
-    <a href="https://github.com/aliiashraf777/project-url">Repo</a> . 
-    <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
-    <br />
-    <sub>Tas: Tag1, Tag2, Tag3</sub>
-  </td>
-  <td valign="top" align="center" min-width="33%" width="33%">
-    <a href="#" >
-      <img src="./assets/" alt="project1" width="100%" />
-    </a>
-    <br />
-    <b>Project One</b>
-    <br />
-    <sub>What it is in one line. Impact or metric if possible</sub>
-    <br />
-    <a href="https://github.com/aliiashraf777/project-url">Repo</a> . 
-    <a href="https://demo-or-case-study-url.com">Demo or Case Study</a>
-    <br />
-    <sub>Tas: Tag1, Tag2, Tag3</sub>
-  </td>
 </tr>
-</table>  
-
-<br/>
+</table>   
+<br />
+-->
 
 
 <h2>🔥 Featured Projects</h2>
@@ -264,65 +236,79 @@
 <table width="100%">
 <tr>
 
-<td width="33%" valign="top">
-
-### 🚀 Modern SaaS Dashboard  
-🔗 **Live Demo:** https://your-link.com  
-💻 **Code:** https://github.com/your-repo  
-
-🧠 **Overview**  
-A high-performance admin dashboard built with React, focused on scalability and real-time data handling.
-
-⚡ **Highlights**
-- Advanced state management (Redux Toolkit)
-- Optimized API handling & caching
-- Fully responsive UI (mobile-first)
-- Clean and scalable architecture
-
-🛠 **Tech Stack**  
-React • Redux • Tailwind • REST API
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛒 E-Commerce Frontend  
-🔗 **Live Demo:** https://your-link.com  
-💻 **Code:** https://github.com/your-repo  
-
-🧠 **Overview**  
-A modern e-commerce UI with smooth UX, built for high conversion and performance.
-
-⚡ **Highlights**
-- Dynamic product filtering & search
-- Cart & checkout flow
-- API-based product management
-- Optimized loading & animations
-
-🛠 **Tech Stack**  
-React • Context API • Tailwind • Stripe (UI)
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎯 High-Converting Landing Page  
-🔗 **Live Demo:** https://your-link.com  
-💻 **Code:** https://github.com/your-repo  
-
-🧠 **Overview**  
-A visually engaging landing page designed to maximize user engagement and conversions.
-
-⚡ **Highlights**
-- GSAP-powered animations
-- Pixel-perfect UI/UX
-- Performance optimized (Lighthouse 90+)
-- Fully responsive across all devices
-
-🛠 **Tech Stack**  
-React • GSAP • Sass • Vite
-
-</td>
+  <td width="33%" valign="top">
+  
+  ### 🚀 Modern SaaS Dashboard
+  
+  <a href="#" >
+        <img src="./assets/" alt="project1" width="100%" />
+  </a>
+  <br />
+  
+  🔗 **Live Demo:** https://your-link.com  
+  💻 **Code:** https://github.com/your-repo  
+  
+  🧠 **Overview**  
+  A high-performance admin dashboard built with React, focused on scalability and real-time data handling.
+  
+  ⚡ **Highlights**
+  - Advanced state management (Redux Toolkit)
+  - Optimized API handling & caching
+  - Fully responsive UI (mobile-first)
+  - Clean and scalable architecture
+  
+  🛠 **Tech Stack**  
+  React • Redux • Tailwind • REST API
+  
+  </td>
+  
+  <td width="33%" valign="top">
+  
+  ### 🛒 E-Commerce Frontend  
+  <a href="#" >
+        <img src="./assets/" alt="project1" width="100%" />
+  </a>
+  
+  🔗 **Live Demo:** https://your-link.com  
+  💻 **Code:** https://github.com/your-repo  
+  
+  🧠 **Overview**  
+  A modern e-commerce UI with smooth UX, built for high conversion and performance.
+  
+  ⚡ **Highlights**
+  - Dynamic product filtering & search
+  - Cart & checkout flow
+  - API-based product management
+  - Optimized loading & animations
+  
+  🛠 **Tech Stack**  
+  React • Context API • Tailwind • Stripe (UI)
+  
+  </td>
+  
+  <td width="33%" valign="top">
+  
+  ### 🎯 High-Converting Landing Page
+  <a href="#" >
+        <img src="./assets/" alt="project1" width="100%" />
+  </a>
+  
+  🔗 **Live Demo:** https://your-link.com  
+  💻 **Code:** https://github.com/your-repo  
+  
+  🧠 **Overview**  
+  A visually engaging landing page designed to maximize user engagement and conversions.
+  
+  ⚡ **Highlights**
+  - GSAP-powered animations
+  - Pixel-perfect UI/UX
+  - Performance optimized (Lighthouse 90+)
+  - Fully responsive across all devices
+  
+  🛠 **Tech Stack**  
+  React • GSAP • Sass • Vite
+  
+  </td>
 
 </tr>
 </table>
@@ -347,9 +333,18 @@ React • GSAP • Sass • Vite
 <br />
 
 > [!NOTE]
-> You don't need to feel sad about it, I usually play cricket ball to keep myself enthusiastic and maintain work-life balance.
-<!-- > Projects of all these related tech stack is given down below with their necessary links, you just need to scroll a bit more. -->
+> Not completely lost in code 😄
+> When I’m not building React apps, you’ll probably find me on the cricket ground 🏏
+> It’s my way of staying balanced, focused, and mentally sharp. <br />
+<!-- <br /> -->
+
+<!-- 
+> 📝 **NOTE**  
+> Not completely lost in code 😄
+> When I’m not building React apps, you’ll probably find me on the cricket ground 🏏
+> It’s my way of staying balanced, focused, and mentally sharp.
 <br />
+-->
 
 <!-- ********* Let's Connect ******************* -->
 
@@ -362,7 +357,8 @@ React • GSAP • Sass • Vite
 - 💬 Let’s build something amazing together → DM me on LinkedIn
 
 ⭐ **If you like my work, don't forget to star my repositories!**
-
+<br />
+<br />
 
 
 <!-- ************ README STATS ************* -->
@@ -376,14 +372,10 @@ React • GSAP • Sass • Vite
 </div>
 
 
-<!-- contribution graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliiashraf777&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
-
 <!-- snake contribution timeline -->
 <p align="center">
   
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-  
 </p>
 
 <!-- paceman contribution -->
