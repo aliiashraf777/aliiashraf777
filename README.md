@@ -84,7 +84,7 @@
 <!-- ## My Skill Set -->
 <h2>🛠️ Tech Stack</h2>
 <table width="100%" style="border: 1px solid red">
-  <tr>
+  <tr width="100%">
   <td valign="top" width="33%">
     
 ### 🚀 Frontend
