@@ -154,9 +154,9 @@
 
 <!-- ************ Featured Skills & Interests ************ -->
 <h2>🛠️ Skills & Interest</h2>
-<table min-width="100vw" style="border: 1px solid red">
+<table width="100%" style="border: 1px solid red">
   <tr>
-  <td valign="top" min-width="49.5%" width="49.5%">
+  <td valign="top" width="50%">
       <h3>📌 Featured Skills</h3>
       <div align="left">  
         
@@ -175,7 +175,7 @@
       </div>
   </td>  
 
-  <td valign="top" min-width="49.5%" width="49.5%">
+  <td valign="top" width="50%">
     <h3>🚀 What I Can Build</h3>
     <div align="left">  
       
