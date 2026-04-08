@@ -259,6 +259,75 @@
 <br/>
 
 
+<h2>🔥 Featured Projects</h2>
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### 🚀 Modern SaaS Dashboard  
+🔗 **Live Demo:** https://your-link.com  
+💻 **Code:** https://github.com/your-repo  
+
+🧠 **Overview**  
+A high-performance admin dashboard built with React, focused on scalability and real-time data handling.
+
+⚡ **Highlights**
+- Advanced state management (Redux Toolkit)
+- Optimized API handling & caching
+- Fully responsive UI (mobile-first)
+- Clean and scalable architecture
+
+🛠 **Tech Stack**  
+React • Redux • Tailwind • REST API
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 E-Commerce Frontend  
+🔗 **Live Demo:** https://your-link.com  
+💻 **Code:** https://github.com/your-repo  
+
+🧠 **Overview**  
+A modern e-commerce UI with smooth UX, built for high conversion and performance.
+
+⚡ **Highlights**
+- Dynamic product filtering & search
+- Cart & checkout flow
+- API-based product management
+- Optimized loading & animations
+
+🛠 **Tech Stack**  
+React • Context API • Tailwind • Stripe (UI)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎯 High-Converting Landing Page  
+🔗 **Live Demo:** https://your-link.com  
+💻 **Code:** https://github.com/your-repo  
+
+🧠 **Overview**  
+A visually engaging landing page designed to maximize user engagement and conversions.
+
+⚡ **Highlights**
+- GSAP-powered animations
+- Pixel-perfect UI/UX
+- Performance optimized (Lighthouse 90+)
+- Fully responsive across all devices
+
+🛠 **Tech Stack**  
+React • GSAP • Sass • Vite
+
+</td>
+
+</tr>
+</table>
+
+
 <!-- ************* BEYOND CODE SECTION ************* -->
 ## 🧠 Beyond Code
 
