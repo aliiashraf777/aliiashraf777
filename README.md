@@ -15,17 +15,20 @@
 
 <!-- ************ Quick Contact ************* -->
 <div align="left">
-  <a href="mailto:aliiashraf777@gmail.com">
+  <!-- <a href="mailto:aliiashraf777@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
+  </a> -->
+  <a href="mailto:aliiashraf777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://linkedin/in/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin-in&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin-logo"  />
+  <a href="https://linkedin.com/in/aliiashraf777">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://aliashraf.com/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=code&label=&color=fb8c00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
   </a>
   <a href="https://facebook.com/">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook-logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
 </div>
 
@@ -80,9 +83,9 @@
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <!-- ## My Skill Set -->
 <h2>🛠️ Tech Stack</h2>
-<table min-width="100vw" style="border: 1px solid red">
-  <tr min-width="100vw" width="100vw">
-  <td valign="top" min-width="33%" width="33%">
+<table width="100%" style="border: 1px solid red">
+  <tr>
+  <td valign="top" width="33%">
     <h3>🚀 Frontend</h3>
     <div align="left">
  
@@ -102,7 +105,7 @@
     </div>
   </td>  
 
-<td valign="top" min-width="33%" width="33%">
+<td valign="top" width="33%">
   <h3>⚙️ Tools & Libraries</h3>
   <div align="left">  
 
@@ -121,7 +124,7 @@
   </div>
 </td>
 
-  <td valign="top" min-width="33%" width="33%">
+  <td valign="top" width="33%">
     <h3>🧰 Development Tools</h3>
     <div align="left">  
       
