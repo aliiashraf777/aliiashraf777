@@ -81,37 +81,55 @@
 <h2>🛠️ Tech Stack</h2>
 <table min-width="100vw" style="border: 1px solid red">
   <tr>
-  <td valign="top" min-width="33%">
+  <td valign="top" min-width="33%" width="33%">
     <h3>🚀 Frontend</h3>
-    <div align="left">  
-          - ReactJS ⚛️
-          - JavaScript (ES6+)
-          - TypeScript
-          - HTML5 & CSS3
-          - Tailwind CSS
-          - Bootstrap
-          - Sass (SCSS)
+    <div align="left">
+ 
+ - ReactJS ⚛️
+   
+ - JavaScript (ES6+)
+   
+ - TypeScript
+   
+ - HTML5 & CSS3
+   
+ - Tailwind CSS
+   
+ - Bootstrap
+   
+ - Sass (SCSS)
     </div>
   </td>  
 
-<td valign="top" min-width="33%">
+<td valign="top" min-width="33%" width="33%">
   <h3>⚙️ Tools & Libraries</h3>
   <div align="left">  
-        - Redux Toolkit
-        - React Query
-        - GSAP (Animations)
-        - Framer Motion
-        - Axios / Fetch API
+
+  - Redux Toolkit
+    
+  - React Query
+    
+  - GSAP (Animations)
+    
+  - Framer Motion
+    
+  - Axios / Fetch API
+    
   </div>
 </td>
 
-  <td valign="top" min-width="33%">
+  <td valign="top" min-width="33%" width="33%">
     <h3>🧰 Development Tools</h3>
     <div align="left">  
-      - Git & GitHub
-      - VS Code
-      - Chrome DevTools
-      - Figma (UI Collaboration)
+      
+  - Git & GitHub
+    
+  - VS Code
+    
+  - Chrome DevTools
+    
+  - Figma (UI Collaboration)
+    
     </div>
   </td>
 </tr>
