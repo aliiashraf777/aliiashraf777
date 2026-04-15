@@ -71,12 +71,12 @@
   <a href="https://aliashraf.com" target="blank">
     <img src="https://skillicons.dev/icons?i=htmx" alt="connectWithMe" draggable="false" />
   </a>
-  <a href="https://fb.com/https://facebook.com" target="blank">
+  <!-- <a href="https://fb.com/https://facebook.com" target="blank">
     <img alignx="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com" height="48" width="48" />
   </a>
-  <a href="https://fb.com/https://instagram.com" target="blank">
+  <a href="https://instagram.com" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="connectWithMe" draggable="false" />
-  </a>
+  </a> -->
 </p>
 
 
