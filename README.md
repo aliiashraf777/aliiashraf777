@@ -154,11 +154,10 @@
 
 <!-- ************ Featured Skills & Interests ************ -->
 <h2>🛠️ Skills & Interest</h2>
-<table width="100%" style="border: 1px solid red">
+<table width="100%">
   <tr>
   <td valign="top" width="50%">
-      <h3>📌 Featured Skills</h3>
-      <div align="left">  
+      ### 📌 Featured Skills
         
   - ✨ Pixel-perfect UI Development
     
@@ -171,13 +170,10 @@
   - 🎯 Clean & Maintainable Code
     
   - 🎨 Modern Animations & UX
-    
-      </div>
   </td>  
 
   <td valign="top" width="50%">
-    <h3>🚀 What I Can Build</h3>
-    <div align="left">  
+    ### 🚀 What I Can Build
       
   - ✔️ Modern React Web Apps
     
@@ -190,8 +186,6 @@
   - ✔️ E-commerce Frontends
     
   - ✔️ Smooth Animations & Interactive UI
-    
-    </div>
   </td>
 </tr>
 </table>  
