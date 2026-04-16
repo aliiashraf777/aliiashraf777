@@ -159,7 +159,8 @@
 <table>
   <tr>
   <td valign="top">
-      ### 📌 Featured Skills
+
+### 📌 Featured Skills
         
   - ✨ Pixel-perfect UI Development
     
@@ -175,7 +176,8 @@
   </td>  
 
   <td valign="top">
-    ### 🚀 What I Can Build
+
+###🚀 What I Can Build
       
   - ✔️ Modern React Web Apps
     
