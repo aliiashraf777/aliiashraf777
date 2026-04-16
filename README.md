@@ -83,9 +83,10 @@
 <!-- ************ LANGUAGES & TOOLS ************* -->
 <!-- ## My Skill Set -->
 <h2>🛠️ Tech Stack</h2>
-<table width="100%" style="border: 1px solid red">
-  <tr width="100%">
-  <td valign="top" width="33%">
+  
+<table>
+  <tr>
+  <td valign="top">
     
 ### 🚀 Frontend
  
@@ -105,7 +106,7 @@
     <!-- </div> -->
   </td>  
 
-<td valign="top" width="33%" style="text-wrap: no-wrap!">
+<td valign="top">
   
 ### ⚙️ Tools & Libraries
 
@@ -123,7 +124,7 @@
     
 </td>
 
-  <td valign="top" width="33%" style="text-wrap: no-wrap!">
+  <td valign="top">
     
 ### 🧰 Development Tools
       
@@ -140,6 +141,7 @@
   </td>
 </tr>
 </table>  
+</div>
 
 <!-- <br/>   -->
 
@@ -154,9 +156,9 @@
 
 <!-- ************ Featured Skills & Interests ************ -->
 <h2>🛠️ Skills & Interest</h2>
-<table width="100%">
+<table>
   <tr>
-  <td valign="top" width="50%">
+  <td valign="top">
       ### 📌 Featured Skills
         
   - ✨ Pixel-perfect UI Development
@@ -172,7 +174,7 @@
   - 🎨 Modern Animations & UX
   </td>  
 
-  <td valign="top" width="50%">
+  <td valign="top">
     ### 🚀 What I Can Build
       
   - ✔️ Modern React Web Apps
