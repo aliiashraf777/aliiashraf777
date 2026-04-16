@@ -245,7 +245,7 @@
 ### 🧠 Resume ATS Builder
 
 <a href="https://1rts-resume-ats.vercel.app/">
-  <img src="./assets/resume.png" width="100%" />
+  <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/projects/featuredAts.png" width="100%" />
 </a>
 
 🔗 **Live Demo:** https://1rts-resume-ats.vercel.app/  
@@ -267,10 +267,10 @@ React • TypeScript • Vite
 
 <td width="33%" valign="top">
 
-### 🛍️ MoonCart E-Commerce App
+### 🛍️ MoonCart E-Comm App
 
 <a href="https://1red-ecom-mooncart-app.vercel.app/">
-  <img src="./assets/mooncart.png" width="100%" />
+  <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/projects/featuredMoon.png" width="100%" />
 </a>
 
 🔗 **Live Demo:** https://1red-ecom-mooncart-app.vercel.app/  
@@ -295,7 +295,7 @@ React • Vite • JavaScript
 ### 🎵 Lyriks Music App
 
 <a href="https://1rapi-lyriks-music-player.vercel.app/">
-  <img src="./assets/lyriks.png" width="100%" />
+  <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/projects/featuredLyriks.png" width="100%" />
 </a>
 
 🔗 **Live Demo:** https://1rapi-lyriks-music-player.vercel.app/  
