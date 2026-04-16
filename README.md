@@ -246,7 +246,7 @@
   <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/projects/featuredAts.png" width="100%" />
 </a>
 
-🔗 **Live Demo:** https://1rts-resume-ats.vercel.app/  
+🔗 **Live Demo:** <br/> https://1rts-resume-ats.vercel.app/  
 💻 **Code:** https://github.com/aliiashraf777/1rts-resume-ats  
 
 🧠 **Overview**  
@@ -271,11 +271,12 @@ React • TypeScript • Vite
   <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/projects/featuredMoon.png" width="100%" />
 </a>
 
-🔗 **Live Demo:** https://1red-ecom-mooncart-app.vercel.app/  
+🔗 **Live Demo:** <br/> https://1red-ecom-mooncart-app.vercel.app/  
 💻 **Code:** https://github.com/aliiashraf777/1red-ecom-mooncart-app  
 
 🧠 **Overview**  
 Modern e-commerce application with cart system and product browsing flow.
+<!-- <br/><br/> -->
 
 ⚡ **Highlights**
 - Cart state management
@@ -296,11 +297,12 @@ React • Vite • JavaScript
   <img src="https://github.com/aliiashraf777/aliiashraf777/blob/main/assets/projects/featuredLyriks.png" width="100%" />
 </a>
 
-🔗 **Live Demo:** https://1rapi-lyriks-music-player.vercel.app/  
+🔗 **Live Demo:** <br/> https://1rapi-lyriks-music-player.vercel.app/  
 💻 **Code:** https://github.com/aliiashraf777/1rapi-lyriks-music-player  
 
 🧠 **Overview**  
 Music streaming app with advanced state management using Redux Toolkit.
+<!-- <br/><br/> -->
 
 ⚡ **Highlights**
 - Redux Toolkit integration
