@@ -371,10 +371,18 @@ React • Redux Toolkit • Vite
 <div align="left" width="100">
   <!-- <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" heightx="150" alt="streak graph"  />
   -->
-
-  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" heightx="220" width="49%" alt="streak graph"  /> &nbsp;
-  <img src="https://github-readme-stats-aliiashraf777.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true" alt="aliiashraf777's Github Top Languages Stats" height="180em" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&theme=tokyonight" height="250" width="34%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" width="34%" alt="streak graph"  />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true&theme=tokyonight" width="29%" height="250" heightx="180em" />
 </div>
+
+<!-- <div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true&theme=tokyonight" width="49%" height="180em" alt="topLanguages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliiashraf777&layout=compact&count_private=true" alt="aliiashraf777's Github Top Languages Stats" heightx="180em" width="49%">
+</div> -->
 
 
 <!-- snake contribution timeline -->
