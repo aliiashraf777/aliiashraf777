@@ -208,7 +208,9 @@
 <!-- <br /> -->
 
 <!-- ************ PROJECTS SHOWCASE ************* -->
-<!-- <h2>💻 Featured Projects - Showcase</h2>
+
+<!--
+<h2>💻 Featured Projects - Showcase</h2>
 <table min-width="100vw" style="border: 1px solid red">
   <tr min-width="100vw" width="100vw">
   <td valign="top" align="center" min-width="33%" width="33%">
@@ -231,84 +233,87 @@
 -->
 
 
-<h2>🔥 Featured Projects</h2>
+<!-- ************ PROJECTS SHOWCASE ************* -->
+
+<h2>💻 Featured Projects</h2>
 
 <table width="100%">
 <tr>
 
-  <td width="33%" valign="top">
-  
-  ### 🚀 Modern SaaS Dashboard
-  
-  <a href="#" >
-        <img src="./assets/" alt="project1" width="100%" />
-  </a>
-  <br />
-  
-  🔗 **Live Demo:** https://your-link.com  
-  💻 **Code:** https://github.com/your-repo  
-  
-  🧠 **Overview**  
-  A high-performance admin dashboard built with React, focused on scalability and real-time data handling.
-  
-  ⚡ **Highlights**
-  - Advanced state management (Redux Toolkit)
-  - Optimized API handling & caching
-  - Fully responsive UI (mobile-first)
-  - Clean and scalable architecture
-  
-  🛠 **Tech Stack**  
-  React • Redux • Tailwind • REST API
-  
-  </td>
-  
-  <td width="33%" valign="top">
-  
-  ### 🛒 E-Commerce Frontend  
-  <a href="#" >
-        <img src="./assets/" alt="project1" width="100%" />
-  </a>
-  
-  🔗 **Live Demo:** https://your-link.com  
-  💻 **Code:** https://github.com/your-repo  
-  
-  🧠 **Overview**  
-  A modern e-commerce UI with smooth UX, built for high conversion and performance.
-  
-  ⚡ **Highlights**
-  - Dynamic product filtering & search
-  - Cart & checkout flow
-  - API-based product management
-  - Optimized loading & animations
-  
-  🛠 **Tech Stack**  
-  React • Context API • Tailwind • Stripe (UI)
-  
-  </td>
-  
-  <td width="33%" valign="top">
-  
-  ### 🎯 High-Converting Landing Page
-  <a href="#" >
-        <img src="./assets/" alt="project1" width="100%" />
-  </a>
-  
-  🔗 **Live Demo:** https://your-link.com  
-  💻 **Code:** https://github.com/your-repo  
-  
-  🧠 **Overview**  
-  A visually engaging landing page designed to maximize user engagement and conversions.
-  
-  ⚡ **Highlights**
-  - GSAP-powered animations
-  - Pixel-perfect UI/UX
-  - Performance optimized (Lighthouse 90+)
-  - Fully responsive across all devices
-  
-  🛠 **Tech Stack**  
-  React • GSAP • Sass • Vite
-  
-  </td>
+<td width="33%" valign="top">
+
+### 🧠 Resume ATS Builder
+
+<a href="https://1rts-resume-ats.vercel.app/">
+  <img src="./assets/resume.png" width="100%" />
+</a>
+
+🔗 **Live Demo:** https://1rts-resume-ats.vercel.app/  
+💻 **Code:** https://github.com/aliiashraf777/1rts-resume-ats  
+
+🧠 **Overview**  
+ATS-optimized resume builder designed to help users create structured, recruiter-friendly resumes.
+
+⚡ **Highlights**
+- ATS-friendly formatting system
+- Clean UI for content creation
+- Type-safe architecture
+- Fast and responsive UX
+
+🛠 **Tech Stack**  
+React • TypeScript • Vite
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛍️ MoonCart E-Commerce App
+
+<a href="https://1red-ecom-mooncart-app.vercel.app/">
+  <img src="./assets/mooncart.png" width="100%" />
+</a>
+
+🔗 **Live Demo:** https://1red-ecom-mooncart-app.vercel.app/  
+💻 **Code:** https://github.com/aliiashraf777/1red-ecom-mooncart-app  
+
+🧠 **Overview**  
+Modern e-commerce application with cart system and product browsing flow.
+
+⚡ **Highlights**
+- Cart state management
+- Product filtering system
+- API integration
+- Responsive UI
+
+🛠 **Tech Stack**  
+React • Vite • JavaScript
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎵 Lyriks Music App
+
+<a href="https://1rapi-lyriks-music-player.vercel.app/">
+  <img src="./assets/lyriks.png" width="100%" />
+</a>
+
+🔗 **Live Demo:** https://1rapi-lyriks-music-player.vercel.app/  
+💻 **Code:** https://github.com/aliiashraf777/1rapi-lyriks-music-player  
+
+🧠 **Overview**  
+Music streaming app with advanced state management using Redux Toolkit.
+
+⚡ **Highlights**
+- Redux Toolkit integration
+- Music player logic
+- API-driven data
+- Smooth UX transitions
+
+🛠 **Tech Stack**  
+React • Redux Toolkit • Vite
+
+</td>
 
 </tr>
 </table>
