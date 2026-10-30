@@ -57,127 +57,122 @@
 </p>
 
 
-<!-- ************ LANGUAGES & TOOLS ************* -->
+<!-- ************ TECH STACK ************* -->
 <h2>🛠️ Tech Stack</h2>
+<p><i>What I build with, and where I actually use it.</i></p>
 
-<table>
-  <tr>
-  <td valign="top">
+<table width="100%">
+<tr>
+<th align="left" width="18%">Category</th>
+<th align="left" width="52%">Technologies</th>
+<th align="left" width="30%">Where I use it</th>
+</tr>
+<tr>
+<td valign="middle"><b>🚀 Frameworks & Mobile</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React_Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+</td>
+<td valign="middle"><sub>Production client platforms (FilerNow, Inbox, Khata) and the FilerNow mobile app</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>🧩 Languages</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript_ES6+" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" alt="CSS3" />
+</td>
+<td valign="middle"><sub>Type-safe code across my recent projects</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>🔄 State & Data</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux_Toolkit" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React_Query" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST_APIs" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+</td>
+<td valign="middle"><sub>API-driven apps with normalized state and cached fetching</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>🎨 Styling & UI</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix_UI" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material_UI" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+</td>
+<td valign="middle"><sub>Reusable, responsive component systems</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>✨ Animation</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer_Motion" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+</td>
+<td valign="middle"><sub>Smooth, interactive UX</sub></td>
+</tr>
+<tr>
+<td valign="middle"><b>🧰 Workflow</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome_DevTools" />
+<img src="https://img.shields.io/badge/Redux_DevTools-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux_DevTools" />
+</td>
+<td valign="middle"><sub>Daily dev, design handoff, debugging and profiling</sub></td>
+</tr>
+</table>
 
-### 🚀 Frontend
+<!-- ************ SKILLS & INTEREST ************* -->
+<h2>🎯 Skills & Interest</h2>
 
- - Next.js (App Router) ▲
-
- - ReactJS ⚛️
-
- - React Native 📱
-
- - TypeScript
-
- - JavaScript (ES6+)
-
- - HTML5 & CSS3
-
- - Tailwind CSS
-
- - shadcn/ui & Radix UI
-
- - Sass (SCSS)
-
-  </td>
-
+<table width="100%">
+<tr>
+<th align="left" width="50%">📌 Core Strengths</th>
+<th align="left" width="50%">🚀 What I Can Build For You</th>
+</tr>
+<tr>
 <td valign="top">
 
-### ⚙️ Tools & Libraries
-
-  - Redux Toolkit
-
-  - React Query
-
-  - GSAP (Animations)
-
-  - Framer Motion
-
-  - Material UI
-
-  - Axios / Fetch API
-
-  - Expo
+- ✨ **Pixel-perfect UI**: Figma/PSD to responsive, consistent interfaces
+- ⚡ **Rendering strategies**: SSR, SSG, ISR, App Router & Server Components
+- 📱 **Cross-platform mobile**: React Native apps sharing logic with web
+- 🔄 **API integration**: async flows, loading/error states, caching
+- 🧱 **Reusable architecture**: typed component systems, normalized state
+- 🎨 **UX & motion**: Framer Motion and GSAP animations
 
 </td>
+<td valign="top">
 
-  <td valign="top">
+- 🏛️ **Production Next.js platforms**: SEO-ready, SSR, structured routing
+- 📊 **Dashboards & admin panels**: protected routes, session-based auth
+- 🛍️ **E-commerce frontends**: carts, filtering, product flows
+- 📱 **React Native mobile apps**: cross-platform, API-driven screens
+- 🌐 **Business sites & landing pages**: fast, responsive, conversion-focused
+- ⚙️ **Interactive UI**: smooth animations and polished interactions
 
-### 🧰 Development Tools
-
-  - Git
-
-  - GitHub
-
-  - VS Code
-
-  - Chrome DevTools
-
-  - Redux DevTools
-
-  - Figma (UI Collaboration)
-
-  </td>
+</td>
 </tr>
 </table>
 
-<!-- ************ TechStack Icons ************ -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,redux,tailwind,sass,materialui,html,css,bootstrap,threejs,figma" alt="languages-tools" draggable="false" />
-</p>
+> 🔭 **Currently exploring:** Advanced Next.js & Server Components · React Native · Performance Optimization
 
+<!-- ************ PLATFORMS ************* -->
+<h3 align="left">💼 Platforms I've Used</h3>
 
-<!-- ************ Featured Skills & Interests ************ -->
-<h2>🛠️ Skills & Interest</h2>
-<table>
-  <tr>
-  <td valign="top">
-
-### 📌 Featured Skills
-
-  - ✨ Pixel-perfect UI Development
-
-  - ⚡ SSR, SSG & ISR with Next.js
-
-  - 📱 Cross-platform Mobile (React Native)
-
-  - 🔄 API Integration
-
-  - 🎯 Clean & Maintainable Code
-
-  - 🎨 Modern Animations & UX
-  </td>
-
-  <td valign="top">
-
-### 🚀 What I Can Build
-
-  - ✔️ Production Next.js Platforms
-
-  - ✔️ React Native Mobile Apps
-
-  - ✔️ Dashboards & Admin Panels
-
-  - ✔️ E-commerce Frontends
-
-  - ✔️ Business Websites & Landing Pages
-
-  - ✔️ Smooth Animations & Interactive UI
-  </td>
-</tr>
+<table width="100%">
+<tr><td width="18%"><b>✍️ Editor</b></td><td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code" /></td></tr>
+<tr><td><b>🌿 Version Control</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></td></tr>
+<tr><td><b>☁️ Deployment</b></td><td><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /></td></tr>
+<tr><td><b>📦 Package Managers</b></td><td><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn" /></td></tr>
 </table>
-
-<!-- ************ PLATFORMS ************ -->
-<h3 align="left">💼 Platforms I've Used:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm,yarn" alt="platforms-i-used" draggable="false" />
-</p>
 
 
 <!-- ************ PROJECTS SHOWCASE ************* -->
@@ -335,9 +330,14 @@ React • Redux Toolkit • Vite
 </div>
 
 
-<!-- snake contribution timeline (your own; needs .github/workflows/snake.yml) -->
+<!-- snake: generated from MY contribution history by .github/workflows/snake.yml -->
+<h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/github-snake.svg" />
+    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/aliiashraf777/aliiashraf777/output/github-snake.svg" />
+  </picture>
 </p>
 
 <!-- Thanks for Visiting -->
