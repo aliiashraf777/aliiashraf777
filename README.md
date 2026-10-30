@@ -322,7 +322,7 @@ React • Redux Toolkit • Vite
 <!-- ************ README STATS ************* -->
 
 <div align="left" width="100">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliiashraf777&show_icons=true&theme=tokyonight" height="250" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliiashraf777&theme=tokyonight" height="250" width="34%" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=aliiashraf777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" width="34%" alt="streak graph" />
   &nbsp;
